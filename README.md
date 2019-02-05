@@ -10,7 +10,7 @@ initialized in div tags within a page. Example:
 
     var mySnakeBoard = new SNAKE.Board( {
                                             boardContainer: "game-area",
-                                            fullScreen: false,
+                                            fullScreen: true,
                                             width: 580,
                                             height:400
                                         });
